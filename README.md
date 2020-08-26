@@ -6,8 +6,6 @@
 - 🔮 I’m currently learning to work with Linux
 - 🚧 2020 Goals: Get better in Kotlin
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
