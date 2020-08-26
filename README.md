@@ -1,12 +1,12 @@
 ## Hi there, I'm Joshua - aka [verity][website] 👋
 
-###🎓 I'm a Student and Developer
+##🎓 I'm a Student and Developer
 
 - 🌌 I’m currently working with my friends on the [Inception Cloud project][icn]
 - 🔮 I’m currently learning to work with Linux
 - 🚧 2020 Goals: Get better in Kotlin
 
-###📎 Connect with me:
+##📎 Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitch" width="21px" src="https://img.pngio.com/hd-twitch-logo-png-twitch-logo-black-png-free-unlimited-twitch-logo-black-1335_1402.png" />][twitch]
@@ -14,7 +14,7 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-###💻 Languages and Tools:
+##💻 Languages and Tools:
 
 [<img align="left" alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/2000px-IntelliJ_IDEA_Logo.svg.png" />][idea]
 [<img align="left" alt="Kotlin" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/600px-Kotlin-logo.svg.png" />][kotlin]
@@ -24,7 +24,7 @@
 [<img align="left" alt="GitHub" width="24px" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" />][github]
 [<img align="left" alt="Discord JDA" width="24px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />][jda]
 
-###💎 GitHub Activity:
+##💎 GitHub Activity:
 
 <details>
 
