@@ -1,12 +1,12 @@
 ## Hi there, I'm Joshua - aka [verity][website] 👋
 
-### I'm a Student and Developer
+### 🎓 I'm a Student and Developer
 
 - 🌌 I’m currently working with my friends on the [Inception Cloud project][icn]
 - 🔮 I’m currently learning to work with Linux
 - 🚧 2020 Goals: Get better in Kotlin
 
-### Connect with me:
+### 📎 Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitch" width="21px" src="https://img.pngio.com/hd-twitch-logo-png-twitch-logo-black-png-free-unlimited-twitch-logo-black-1335_1402.png" />][twitch]
@@ -16,7 +16,7 @@
 
 <br />
 
-### Languages and Tools:
+### 💻 Languages and Tools:
 
 [<img align="left" alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/2000px-IntelliJ_IDEA_Logo.svg.png" />][idea]
 [<img align="left" alt="Kotlin" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/600px-Kotlin-logo.svg.png" />][kotlin]
@@ -28,7 +28,7 @@
 
 <br />
 
-### GitHub Activity:
+### 💎 GitHub Activity:
  
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=verityyt&show_icons=true&hide_border=true" />
 
