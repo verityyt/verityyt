@@ -6,6 +6,8 @@
 - 🔮 I’m currently learning to work with Linux
 - 🚧 2020 Goals: Get better in Kotlin
 
+<br />
+
 ###Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -13,6 +15,8 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+<br />
 
 ###Languages and Tools:
 
@@ -23,6 +27,8 @@
 [<img align="left" alt="Gson" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png" />][gson]
 [<img align="left" alt="GitHub" width="24px" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" />][github]
 [<img align="left" alt="Discord JDA" width="24px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />][jda]
+
+<br />
 
 ###GitHub Activity:
 
