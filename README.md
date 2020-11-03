@@ -32,7 +32,7 @@
  
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=verityyt&show_icons=true&hide_border=true&count_private=true" />
 
-[website]: https://verity-network.de/
+[website]: http://verity-network.de/
 [icn]: https://github.com/InceptionCloud/
 [twitch]: https://twitch.tv/verity_yt/
 [instagram]: https://www.instagram.com/verity_yt/
