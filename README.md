@@ -2,7 +2,7 @@
 
 ### 🎓 I'm a Student and Developer
 
-- 🌌 I’m currently working with my friends on the [Inception Cloud project][icn]
+- 🌌 I’m currently working on the [Inception Cloud project][icn]
 - 🔮 I’m currently learning to work with Linux
 - 🚧 2020 Goals: Get better in Kotlin
 
