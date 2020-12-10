@@ -31,7 +31,7 @@
 
 ### 💎 GitHub Activity:
  
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=verityyt" />
+<img align="left" alt="Github-Stats" src="https://github-readme-stats.vercel.app/api?username=verityyt" />
 
 <br />
 <br />
@@ -43,9 +43,9 @@
 <br />
 <br />
 
-### 🔥 StackOverflow Activity:
+### 🔥 StackOverflow Stats:
 
-<img align="left" alt="Github Stats" src="https://github-readme-stackoverflow.vercel.app/?userID=13189807" />
+<img align="left" alt="Stackoverflow-Stats" src="https://github-readme-stackoverflow.vercel.app/?userID=13189807" />
 
 [website]: http://verity-network.de/
 [icn]: https://github.com/InceptionCloud/
