@@ -24,14 +24,13 @@
 [<img align="left" alt="Java" width="24px" src="https://w7.pngwing.com/pngs/510/15/png-transparent-java-programming-computer-programming-programming-language-android-coffee-jar-text-logo-computer-program.png" />][java]
 [<img align="left" alt="Mod Coder Pack" width="24px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/76/47/3e/76473e38-7736-b3d5-85df-6da2d18af658/AppIcon-0-1x_U007emarketing-0-85-220-9.png/400x400.png" />][mcp]
 [<img align="left" alt="Gson" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png" />][gson]
-[<img align="left" alt="GitHub" width="24px" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" />][github]
 [<img align="left" alt="Discord JDA" width="24px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />][jda]
 
 <br />
 
 ### 💎 GitHub Activity:
  
-<img align="left" alt="Github-Stats" src="https://github-readme-stats.vercel.app/api?username=verityyt" />
+<img align="left" alt="Github-Stats" src="" />
 
 <br />
 <br />
