@@ -28,9 +28,9 @@
 
 <br />
 
-### 💎 GitHub Activity:
+### 💎 GitHub Stats:
  
-<img align="left" alt="Github-Stats" src="" />
+<img align="left" alt="Github-Stats" src="https://github-readme-stats.vercel.app/api?username=verityyt" />
 
 <br />
 <br />
