@@ -3,7 +3,7 @@
 ### 🎓 I'm a Student and Developer
 
 - 🌌 I’m currently working on the [Inception Cloud project][icn]
-- 🔮 I’m currently learning to work with Linux
+- 🔮 I’m currently learning to work with Linuxstakc
 - 🚧 2020 Goals: Get better in Kotlin
 
 ### 📎 Connect with me:
@@ -32,6 +32,20 @@
 ### 💎 GitHub Activity:
  
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=verityyt" />
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+### 🔥 StackOverflow Activity:
+
+<img align="left" alt="Github Stats" src="https://github-readme-stackoverflow.vercel.app/?userID=13189807" />
 
 [website]: http://verity-network.de/
 [icn]: https://github.com/InceptionCloud/
