@@ -30,7 +30,7 @@
 
 ### 💎 GitHub Activity:
  
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=verityyt&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=verityyt" />
 
 [website]: http://verity-network.de/
 [icn]: https://github.com/InceptionCloud/
