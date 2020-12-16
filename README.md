@@ -30,7 +30,7 @@
 
 ### 💎 GitHub Stats:
  
-<img align="left" alt="Github-Stats" src="https://github-readme-stats.vercel.app/api?username=verityyt&count_private=true" />
+<img align="left" alt="Github-Stats" src="https://github-readme-stats.vercel.app/api?username=verityyt&count_private=true&show_icons=true" />
 
 <br />
 <br />
