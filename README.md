@@ -4,7 +4,7 @@
 
 - 🌌 I’m currently working on the [Inception Cloud][icn] project
 - 🔮 I’m currently learning Ktor
-- 🚧 2020 Goals: Get better in Kotlin
+- 🚧 2021 Goal: Be more productive
 
 ### 📎 Connect with me:
 
