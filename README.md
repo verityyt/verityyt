@@ -18,8 +18,8 @@
 <br />
 
 ### 💻 Languages and Tools:
+[<img alt="Java" width="24px" src="https://www.pinclipart.com/picdir/big/53-534873_vector-steam-java-developer-java-icon-png-clipart.png" />][java]
 [<img alt="Kotlin" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/600px-Kotlin-logo.svg.png" />][kotlin]
-[<img alt="Java" width="24px" src="http://assets.stickpng.com/thumbs/58480979cef1014c0b5e4901.png" />][java]
 <img style="padding-left: 15px;">
 [<img alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/2000px-IntelliJ_IDEA_Logo.svg.png" />][idea]
 [<img alt="Ktor" width="24px" src="https://www.scottbrady91.com/img/logos/ktor.png" />][ktor]
