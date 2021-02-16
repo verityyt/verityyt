@@ -18,18 +18,17 @@
 <br />
 
 ### 💻 Languages and Tools:
-
-[<img align="left" alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/2000px-IntelliJ_IDEA_Logo.svg.png" />][idea]
-[<img align="left" alt="Kotlin" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/600px-Kotlin-logo.svg.png" />][kotlin]
-[<img align="left" alt="Java" width="24px" src="https://w7.pngwing.com/pngs/510/15/png-transparent-java-programming-computer-programming-programming-language-android-coffee-jar-text-logo-computer-program.png" />][java]
-[<img align="left" alt="Mod Coder Pack" width="24px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/76/47/3e/76473e38-7736-b3d5-85df-6da2d18af658/AppIcon-0-1x_U007emarketing-0-85-220-9.png/400x400.png" />][mcp]
-[<img align="left" alt="Gson" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png" />][gson]
-[<img align="left" alt="Discord JDA" width="24px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />][jda]
+[<img alt="Kotlin" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/600px-Kotlin-logo.svg.png" />][kotlin]
+[<img alt="Java" width="24px" src="http://assets.stickpng.com/thumbs/58480979cef1014c0b5e4901.png" />][java]
+<img style="padding-left: 15px;">
+[<img alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/2000px-IntelliJ_IDEA_Logo.svg.png" />][idea]
+[<img alt="Ktor" width="24px" src="https://www.scottbrady91.com/img/logos/ktor.png" />][ktor]
+[<img alt="Discord JDA" width="24px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />][jda]
 
 <br />
 
 ### 💎 GitHub Stats:
- 
+
 <img align="left" alt="Github-Stats" src="https://github-readme-stats.vercel.app/api?username=verityyt&count_private=true&show_icons=true" />
 
 <br />
@@ -53,10 +52,9 @@
 [twitter]: https://twitter.com/verity_yt_/
 [youtube]: https://www.youtube.com/channel/UCYMBcKoGQofE1_omJdBjUvg/
 [stackoverflow]: https://stackoverflow.com/users/13189807/verity?tab=profile
-[idea]: https://www.jetbrains.com/idea/
 [kotlin]: https://kotlinlang.org/
 [java]: https://www.java.com/de/
-[mcp]: http://www.modcoderpack.com/
-[gson]: https://github.com/google/gson/
-[github]: https://github.com/
+[idea]: https://www.jetbrains.com/idea/
 [jda]: https://github.com/DV8FromTheWorld/JDA/
+[ktor]: https://ktor.io/
+[github]: https://github.com/
