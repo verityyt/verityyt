@@ -3,7 +3,7 @@
 ### 🎓 I'm a Student and Developer
 
 - 🌌 I’m currently working on the [Inception Cloud][icn] project
-- 🔮 I’m currently learning Ktor
+- 🔮 I’m currently learning [TypeScript][ts]
 - 🚧 2021 Goal: Be more productive
 
 ### 📎 Connect with me:
@@ -58,3 +58,4 @@
 [jda]: https://github.com/DV8FromTheWorld/JDA/
 [ktor]: https://ktor.io/
 [github]: https://github.com/
+[ts]: https://www.typescriptlang.org/
