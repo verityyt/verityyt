@@ -26,7 +26,6 @@
 
 <br />
 <br />
-<br />
 
 ### 📘 Languages:
 <img align="left" alt="Github-Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verityyt&layout=compact" />
