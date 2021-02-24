@@ -25,6 +25,8 @@
 [<img align="left" alt="Discord JDA" width="24px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />][jda]
 
 <br />
+<br />
+<br />
 
 ### 📘 Languages:
 <img align="left" alt="Github-Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verityyt&layout=compact" />
