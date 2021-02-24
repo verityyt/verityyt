@@ -9,11 +9,9 @@
 ### 📎 Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitch" width="21px" src="https://img.pngio.com/hd-twitch-logo-png-twitch-logo-black-png-free-unlimited-twitch-logo-black-1335_1402.png" />][twitch]
+[<img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
 
@@ -60,10 +58,8 @@
 
 [website]: http://verity-network.de/
 [icn]: https://github.com/InceptionCloud/
-[twitch]: https://twitch.tv/verity_yt/
 [instagram]: https://www.instagram.com/verity_yt/
 [twitter]: https://twitter.com/verity_yt_/
-[youtube]: https://www.youtube.com/channel/UCYMBcKoGQofE1_omJdBjUvg/
 [stackoverflow]: https://stackoverflow.com/users/13189807/verity?tab=profile
 [kotlin]: https://kotlinlang.org/
 [java]: https://www.java.com/de/
