@@ -2,7 +2,7 @@
 
 ### 🎓 I'm a Student and Developer
 
-- 🌌 I’m currently working on the [Inception Cloud][icn] project
+- 🌌 I’m currently working on [many different projects][projects]
 - 🔮 I’m currently learning [TypeScript][ts]
 - 🚧 2021 Goal: Be more productive
 
@@ -57,7 +57,7 @@
 <img align="left" alt="Stackoverflow-Stats" src="https://github-readme-stackoverflow.vercel.app/?userID=13189807" />
 
 [website]: http://verity-network.de/
-[icn]: https://github.com/InceptionCloud/
+[projects]: https://github.com/verityyt?tab=repositories
 [instagram]: https://www.instagram.com/verity_yt/
 [twitter]: https://twitter.com/verity_yt_/
 [stackoverflow]: https://stackoverflow.com/users/13189807/verity?tab=profile
