@@ -3,7 +3,7 @@
 ### 🎓 I'm a Student and Developer
 
 - 🌌 I’m currently working on [many different projects][projects]
-- 🔮 I’m currently learning [TypeScript][ts]
+- 🔮 I’m currently learning [TypeScript][ts]****
 - 🚧 2021 Goal: Be more productive
 
 ### 📎 Connect with me:
@@ -19,7 +19,7 @@
 [<img align="left" alt="Kotlin" width="24px" src="https://static.wikia.nocookie.net/logopedia/images/f/fb/Kotlin.svg/revision/latest/scale-to-width-down/340?cb=20200322012133" />][kotlin]
 [<img align="left" alt="Java" width="24px" src="https://w7.pngwing.com/pngs/510/15/png-transparent-java-programming-computer-programming-programming-language-android-coffee-jar-text-logo-computer-program.png" />][java]
 [<img align="left" alt="Java" width="24px" src="https://angular.de/assets/img/schulungen/shared/logo-typescript.svg" />][ts]
-[<img align="left" alt="IntelliJ IDEA" width="26px" src="https://cdn.icnet.dev/discordbot/logo_intellij.png" />][idea]
+[<img align="left" alt="IntelliJ IDEA" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/intellij-idea-logo-vector.svg" />][idea]
 [<img align="left" alt="Ktor" width="24px" src="https://www.scottbrady91.com/img/logos/ktor.png" />][ktor]
 [<img align="left" alt="Discord JDA" width="24px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />][jda]
 
