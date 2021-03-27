@@ -3,7 +3,7 @@
 ### 🎓 I'm a Student and Developer
 
 - 🌌 I’m currently working on [many different projects][projects]
-- 🔮 I’m currently learning [TypeScript][ts]****
+- 🔮 I’m currently learning [TypeScript][ts]
 - 🚧 2021 Goal: Be more productive
 
 ### 📎 Connect with me:
