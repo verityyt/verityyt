@@ -4,7 +4,7 @@
 
 - 🌌 I’m currently working on [many different projects][projects]
 - 🔮 2.5k+ commits / 50+ repos / 5+ languages
-- 🚧 2022 Goal: Come back to codiing
+- 🚧 2022 Goal: Come back to coding
 
 ### 📎 Connect with me:
 
