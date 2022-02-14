@@ -3,8 +3,8 @@
 ### 🎓 I'm a Student and Developer
 
 - 🌌 I’m currently working on [many different projects][projects]
-- 🔮 I’m currently learning [TypeScript][ts]
-- 🚧 2021 Goal: Be more productive
+- 🔮 2.5k+ commits / 50+ repos / 5+ languages
+- 🚧 2022 Goal: Come back to codiing
 
 ### 📎 Connect with me:
 
