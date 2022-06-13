@@ -60,7 +60,7 @@
 <img align="left" alt="Stackoverflow-Stats" src="https://github-readme-stackoverflow.vercel.app/?userID=13189807" />
 
 [website]: http://verity-network.de/
-[studypilot]: https://https://www.studypilot.app/
+[studypilot]: https://www.studypilot.app/
 [instagram]: https://www.instagram.com/verity.dev/
 [twitter]: https://twitter.com/verity_yt_/
 [stackoverflow]: https://stackoverflow.com/users/13189807/verity?tab=profile
