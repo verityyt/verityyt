@@ -2,9 +2,9 @@
 
 ### 🎓 I'm a Student and Developer
 
-- <img align="left" alt="studypilot" width="20px" src="https://cdn.verity-network.de/studypilot/logo_plane_transparent.png" />&nbsp;I’m currently working on [studypilot][studypilot]
-- <img align="left" alt="GitHub" width="20px" src="https://cdn.verity-network.de/studypilot/logo_github_white.png" />&nbsp;2.5k+ commits / 50+ repos / 5+ languages
-- <img align="left" alt="GitHub" width="20px" src="https://cdn.verity-network.de/studypilot/eyes_emoji.png" />&nbsp;2022 Goal: Work with many different libraries
+- <img align="left" alt="studypilot" width="20px" src="https://cdn.verity-network.de/studypilot/logo_plane_transparent.png" /> I’m currently working on [studypilot][studypilot]
+- <img align="left" alt="GitHub" width="20px" src="https://cdn.verity-network.de/studypilot/logo_github_white.png" /> 2.5k+ commits / 50+ repos / 5+ languages
+- <img align="left" alt="GitHub" width="20px" src="https://cdn.verity-network.de/studypilot/eyes_emoji.png" /> 2022 Goal: Work with many different libraries
 
 ### 📎 Connect with me:
 
