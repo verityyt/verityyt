@@ -2,9 +2,9 @@
 
 ### 🎓 I'm a Student and Developer
 
-- 🌌 I’m currently working on [many different projects][projects]
-- 🔮 2.5k+ commits / 50+ repos / 5+ languages
-- 🚧 2022 Goal: Come back to coding
+- <img align="left" alt="studypilot" width="20px" src="https://cdn.verity-network.de/studypilot/logo_plane_transparent.png" />&nbsp;I’m currently working on [studypilot][studypilot]
+- <img align="left" alt="GitHub" width="20px" src="https://cdn.verity-network.de/studypilot/logo_github_white.png" />&nbsp;2.5k+ commits / 50+ repos / 5+ languages
+- <img align="left" alt="GitHub" width="20px" src="https://cdn.verity-network.de/studypilot/eyes_emoji.png" />&nbsp;2022 Goal: Work with many different libraries
 
 ### 📎 Connect with me:
 
@@ -22,6 +22,7 @@
 [<img align="left" alt="IntelliJ IDEA" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/intellij-idea-logo-vector.svg" />][idea]
 [<img align="left" alt="Ktor" width="24px" src="https://www.scottbrady91.com/img/logos/ktor.png" />][ktor]
 [<img align="left" alt="Discord JDA" width="24px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />][jda]
+[<img align="left" alt="ReactJS" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />][react]
 
 <br />
 <br />
@@ -59,14 +60,15 @@
 <img align="left" alt="Stackoverflow-Stats" src="https://github-readme-stackoverflow.vercel.app/?userID=13189807" />
 
 [website]: http://verity-network.de/
-[projects]: https://github.com/verityyt?tab=repositories
-[instagram]: https://www.instagram.com/verity_yt/
+[studypilot]: https://https://www.studypilot.app/
+[instagram]: https://www.instagram.com/verity.dev/
 [twitter]: https://twitter.com/verity_yt_/
 [stackoverflow]: https://stackoverflow.com/users/13189807/verity?tab=profile
 [kotlin]: https://kotlinlang.org/
 [java]: https://www.java.com/de/
 [idea]: https://www.jetbrains.com/idea/
 [jda]: https://github.com/DV8FromTheWorld/JDA/
+[react]: https://reactjs.org/
 [ktor]: https://ktor.io/
 [github]: https://github.com/
 [ts]: https://www.typescriptlang.org/
