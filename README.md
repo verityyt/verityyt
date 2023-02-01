@@ -2,7 +2,7 @@
 
 ### 🎓 I'm a Student and Developer
 
-- <img alt="studypilot" width="20px" src="https://cdn.verity-network.de/github-readme/logo_plane_transparent.png" /> I’m currently working on [studypilot][studypilot]
+- <img alt="studypilot" width="20px" src="https://cdn.verity-network.de/github-readme/logo_studypilot_edited.png" /> I’m currently working on [studypilot][studypilot]
 - <img alt="GitHub" width="20px" src="https://cdn.verity-network.de/github-readme/logo_github_white.png" /> 2.5k+ commits / 60+ repos / 5+ languages
 - <img alt="GitHub" width="20px" src="https://cdn.verity-network.de/github-readme/eyes_emoji.png" /> 2023 Goal: Contribute 500+ commits to [studypilot][studypilot]
 
@@ -59,7 +59,7 @@
 
 <img align="left" alt="Stackoverflow-Stats" src="https://github-readme-stackoverflow.vercel.app/?userID=13189807" />
 
-[website]: http://verity-network.de/
+[website]: https://verity-network.de/
 [studypilot]: https://www.studypilot.app/
 [instagram]: https://www.instagram.com/verity.dev/
 [twitter]: https://twitter.com/verity_yt_/
