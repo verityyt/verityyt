@@ -3,15 +3,15 @@
 ### 🎓 I'm a Student and Developer
 
 - <img alt="studypilot" width="20px" src="https://cdn.verity-network.de/github-readme/logo_plane_transparent.png" /> I’m currently working on [studypilot][studypilot]
-- <img alt="GitHub" width="20px" src="https://cdn.verity-network.de/github-readme/logo_github_white.png" /> 2.5k+ commits / 50+ repos / 5+ languages
-- <img alt="GitHub" width="20px" src="https://cdn.verity-network.de/github-readme/eyes_emoji.png" /> 2022 Goal: Work with many different libraries
+- <img alt="GitHub" width="20px" src="https://cdn.verity-network.de/github-readme/logo_github_white.png" /> 2.5k+ commits / 60+ repos / 5+ languages
+- <img alt="GitHub" width="20px" src="https://cdn.verity-network.de/github-readme/eyes_emoji.png" /> 2023 Goal: Contribute 500+ commits to [studypilot][studypilot]
 
 ### 📎 Connect with me:
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Website" width="22px" src="https://cdn.verity-network.de/github-readme/website_icon.png" />][website]
+[<img align="left" alt="StackOverflow" width="22px" src="https://cdn.verity-network.de/github-readme/logo_stackoverflow.png" />][stackoverflow]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.verity-network.de/github-readme/logo_instagram.png" />][instagram]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.verity-network.de/github-readme/logo_twitter.png" />][twitter]
 
 <br />
 
