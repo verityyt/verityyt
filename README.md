@@ -1,33 +1,24 @@
-## Hi there, I'm Joshua - aka [verity][website] 👋
+# Hi there, I'm Joshua - aka [verity][website] 👋
 
-### 🎓 I'm a Student and Developer
+## 🎓 I'm a Student and Developer
 
 - <img alt="studypilot" width="20px" src="https://cdn.verity-network.de/github-readme/logo_studypilot_edited.png" /> I’m currently working on [studypilot][studypilot]
-- <img alt="GitHub" width="20px" src="https://cdn.verity-network.de/github-readme/logo_github_white.png" /> 2.5k+ commits / 60+ repos / 5+ languages
-- <img alt="GitHub" width="20px" src="https://cdn.verity-network.de/github-readme/eyes_emoji.png" /> 2023 Goal: Contribute 500+ commits to [studypilot][studypilot]
+- <img alt="GitHub" width="20px" src="https://cdn.verity-network.de/github-readme/logo_github_white.png" /> 4.1k+ commits / 60+ repos / 5+ languages
+- <img alt="GitHub" width="20px" src="https://cdn.verity-network.de/github-readme/eyes_emoji.png" /> 2024 Goal: Contribute 500+ commits to [studypilot][studypilot]
 
-### 📎 Connect with me:
-
-[<img align="left" alt="Website" width="22px" src="https://cdn.verity-network.de/github-readme/website_icon.png" />][website]
-[<img align="left" alt="StackOverflow" width="22px" src="https://cdn.verity-network.de/github-readme/logo_stackoverflow.png" />][stackoverflow]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.verity-network.de/github-readme/logo_instagram.png" />][instagram]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.verity-network.de/github-readme/logo_twitter.png" />][twitter]
-
+## 📎 Connect with me:
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/verity.dev/)
+[![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/verity_yt_/)
+[![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow&theme=dark)](https://stackoverflow.com/users/13189807/verity?tab=profile)
+[![Github](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/verityyt)
 <br />
 
-### 💻 Languages and Tools:
-[<img align="left" alt="Kotlin" width="24px" src="https://static.wikia.nocookie.net/logopedia/images/f/fb/Kotlin.svg/revision/latest/scale-to-width-down/340?cb=20200322012133" />][kotlin]
-[<img align="left" alt="Java" width="24px" src="https://w7.pngwing.com/pngs/510/15/png-transparent-java-programming-computer-programming-programming-language-android-coffee-jar-text-logo-computer-program.png" />][java]
-[<img align="left" alt="Java" width="24px" src="https://angular.de/assets/img/schulungen/shared/logo-typescript.svg" />][ts]
-[<img align="left" alt="ReactJS" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />][react]
-[<img align="left" alt="IntelliJ IDEA" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/intellij-idea-logo-vector.svg" />][idea]
-[<img align="left" alt="Ktor" width="24px" src="https://www.scottbrady91.com/img/logos/ktor.png" />][ktor]
-[<img align="left" alt="Discord JDA" width="24px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />][jda]
-
+## 💻 Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,electron,react,nodejs,npm,,idea,androidstudio,github,githubactions,,kotlin,java,gradle&perline=5&theme=dark)](https://skillicons.dev)
 <br />
 <br />
 
-### 📘 Languages:
+## 📘 Languages:
 <img align="left" alt="Github-Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verityyt&layout=compact" />
 
 <br />
@@ -61,14 +52,3 @@
 
 [website]: https://verity-network.de/
 [studypilot]: https://www.studypilot.app/
-[instagram]: https://www.instagram.com/verity.dev/
-[twitter]: https://twitter.com/verity_yt_/
-[stackoverflow]: https://stackoverflow.com/users/13189807/verity?tab=profile
-[kotlin]: https://kotlinlang.org/
-[java]: https://www.java.com/de/
-[idea]: https://www.jetbrains.com/idea/
-[jda]: https://github.com/DV8FromTheWorld/JDA/
-[react]: https://reactjs.org/
-[ktor]: https://ktor.io/
-[github]: https://github.com/
-[ts]: https://www.typescriptlang.org/
