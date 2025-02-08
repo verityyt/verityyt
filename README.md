@@ -1,4 +1,4 @@
-# Hi there, I'm Joshua - aka [verity][website] 👋
+# Hi there, I'm Joshua - aka verity 👋
 
 ## 🎓 I'm a Student and Developer
 
