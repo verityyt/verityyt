@@ -3,7 +3,7 @@
 ## 🎓 I'm a Student and Developer
 
 - I’m currently working on [studypilot][studypilot]
-- 4.1k+ commits / 60+ repos / 5+ languages
+- 4.5k+ commits / 60+ repos / 5+ languages
 
 ## 📎 Connect with me:
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/verity.dev/)
